@@ -216,7 +216,7 @@ npm run dev
 
 # 🙏 鸣谢（原作者）
 
-本项目基于原项目 **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** 进行优化与扩展。
+本项目基于原项目 **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** 进行扩展。
 
 特别感谢原作者及其贡献者提供：
 
