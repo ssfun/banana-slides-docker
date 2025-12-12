@@ -214,20 +214,6 @@ npm run dev
 
 ---
 
-## ✅ 6. README 与部署文档全面升级
-
-本 README 完整包含：
-
-* 部署指南
-* 运行指南
-* 数据持久化
-* 与原项目差异
-* 鸣谢说明
-
-非常适合实际部署、二次开发或教学使用。
-
----
-
 # 🙏 鸣谢（原作者）
 
 本项目基于原项目 **[Anionex/banana-slides](https://github.com/Anionex/banana-slides)** 进行优化与扩展。
